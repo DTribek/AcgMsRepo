@@ -1,0 +1,9 @@
+{
+	"name": "diegodatafactory1222",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "58a5fa4c-e441-47e1-b1c5-d61d4834ada1",
+		"tenantId": "84f1e4ea-8554-43e1-8709-f0b8589ea118"
+	}
+}
